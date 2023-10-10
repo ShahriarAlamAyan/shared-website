@@ -1,0 +1,51 @@
+.body{
+    font-family: Arial;
+    background-color: rgb(25, 33, 34);
+}
+
+.ano{
+    font-weight: 100;
+    font-size: 40px;
+    text-align: center;
+    color: aquamarine;
+}
+
+.name{
+    font-size: 80px;
+    text-align: center;
+    color: rgb(131, 186, 231);
+}
+
+.pera{
+    color: rgb(168, 168, 249);
+    font-size: x-large;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+
+.facebook{
+    
+    width: 50px; ;
+    margin-left: 20px;
+    padding-bottom: 12px;
+}
+
+.discord{
+    height: 80px; ;
+    width: 80px; ;
+    margin-left: 20px;
+    
+}
+
+.instagram{
+    width: 60px; ;
+    margin-left: 20px;
+    padding-bottom: 12px;
+}
+
+.spotify{
+    width: 50px; ;
+    margin-left: 20px;
+    padding-bottom: 12px;
+}
